@@ -1,0 +1,39 @@
+
+body {
+    font-family: arial;
+
+}
+button {
+    padding:10px;
+    background-color:#6a67ce;
+    color: #FFFFFF;
+    border: 0px;
+    cursor:pointer;
+    border-radius: 5px;
+}
+
+#msg0, #msg, #msg2, #msg3, #msg4 {
+    display: none;
+    margin-top: 8px;
+    padding: 8px 12px;
+    border-radius: 3px;
+  } 
+  #msgl1, #msgl2, #msgl3, #msgl4, #msgl5, #da, #nu, #msg24 {
+    display: none;
+    margin-top: 8px;
+    padding: 8px 12px;
+    border-radius: 3px;
+  } 
+
+  .answer{
+    padding:10px;
+    background-color:#d607c5;
+    color: #ffffff;
+    border: 0px;
+    cursor:pointer;
+    border-radius: 5px;
+  }
+
+  
+
+
